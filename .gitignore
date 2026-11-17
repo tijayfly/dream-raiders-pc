@@ -1,0 +1,12 @@
+# build output
+build/
+release/
+*.o
+*.dll
+*.zip
+
+# never commit game files or per-user data
+Game.exe
+*.ini
+*.tg
+port/

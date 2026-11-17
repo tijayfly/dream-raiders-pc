@@ -1,0 +1,5 @@
+#pragma once
+#define PORT_VERSION_MAJOR 1
+#define PORT_VERSION_MINOR 0
+#define PORT_VERSION_PATCH 0
+#define PORT_VERSION_STR "1.0.0"
