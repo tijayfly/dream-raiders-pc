@@ -103,3 +103,6 @@ and reviewed and edited the results.
 
 This project contains no SEGA code or assets. It's an independent compatibility layer that runs a copy of the game
 you already own. Don't redistribute game files with it.
+
+The port's own code is released under the [MIT License](LICENSE). Dear ImGui keeps its own MIT licence, and
+Dream Raiders and all game files remain the property of SEGA.
